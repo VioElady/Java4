@@ -13,13 +13,12 @@ public class Analysis {
 
             System.out.print("Enter result (1 = pass, 2 = fail): ");
             int result = input.nextInt();
-
+            if ((result >2) ||(result<1)) continue ;
             if (result == 1)
                 passes = passes + 1;
-            else if (result == 2)
+            else
                 failures = failures + 1;
-
-            studentCounter = studentCounter + 1;
+            studentCounter++;
 
             System.out.printf("Passed: %d%nFailed: %d%n", passes, failures);
             if (passes > 8)
