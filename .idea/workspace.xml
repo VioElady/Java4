@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19dd29f3-2c7c-4141-a413-cf3b1c070745" name="Default Changelist" comment="" />
+    <list default="true" id="19dd29f3-2c7c-4141-a413-cf3b1c070745" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Analysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindTheTwoLargestNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintingtheDecimalEquivalentofaBinaryNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SalaryCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SalesCommissionCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SidesOfaTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SidesofaRightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareOfAsterisks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TabularOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java4/CreditLimitCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java4/CreditLimitCalculator.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +29,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UF6r2IVuxLboXmdJFLfvXLJa5e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,16 +45,37 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.CreditLimitCalculator">
-    <configuration name="CreditLimitCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreditLimitCalculator" />
+  <component name="RunManager" selected="Application.Factorial">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="Java4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GasMileage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GasMileage" />
+    <configuration name="FindLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindLargestNumber" />
+      <module name="Java4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindTwoLargestNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindTwoLargestNumbers" />
+      <module name="Java4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalaryCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SalaryCalculator" />
+      <module name="Java4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TabularOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TabularOutput" />
       <module name="Java4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -43,8 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CreditLimitCalculator" />
-        <item itemvalue="Application.GasMileage" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.FindTwoLargestNumbers" />
+        <item itemvalue="Application.FindLargestNumber" />
+        <item itemvalue="Application.TabularOutput" />
+        <item itemvalue="Application.SalaryCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -78,21 +121,37 @@
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state x="428" y="124" width="847" height="677" key="#Project_Structure/67.27.1533.873@67.27.1533.873" timestamp="1574940267710" />
-    <state width="1487" height="166" key="GridCell.Tab.0.bottom" timestamp="1574949749774">
+    <state x="616" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575020598405">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1487" height="166" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1574949749774" />
-    <state width="1487" height="166" key="GridCell.Tab.0.center" timestamp="1574949749774">
+    <state x="616" y="220" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1575020598405" />
+    <state width="1487" height="74" key="GridCell.Tab.0.bottom" timestamp="1575447340120">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1487" height="166" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1574949749774" />
-    <state width="1487" height="166" key="GridCell.Tab.0.left" timestamp="1574949749773">
+    <state width="1487" height="74" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1575447340120" />
+    <state width="1487" height="27" key="GridCell.Tab.0.bottom/67.27.3453.1053@67.27.3453.1053" timestamp="1575023173699" />
+    <state width="1487" height="74" key="GridCell.Tab.0.center" timestamp="1575447340119">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1487" height="166" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1574949749773" />
-    <state width="1487" height="166" key="GridCell.Tab.0.right" timestamp="1574949749774">
+    <state width="1487" height="74" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1575447340119" />
+    <state width="1487" height="27" key="GridCell.Tab.0.center/67.27.3453.1053@67.27.3453.1053" timestamp="1575023173698" />
+    <state width="1487" height="74" key="GridCell.Tab.0.left" timestamp="1575447340119">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1487" height="166" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1574949749774" />
+    <state width="1487" height="74" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1575447340119" />
+    <state width="1487" height="27" key="GridCell.Tab.0.left/67.27.3453.1053@67.27.3453.1053" timestamp="1575023173698" />
+    <state width="1487" height="74" key="GridCell.Tab.0.right" timestamp="1575447340120">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="74" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1575447340120" />
+    <state width="1487" height="27" key="GridCell.Tab.0.right/67.27.3453.1053@67.27.3453.1053" timestamp="1575023173699" />
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1575445430233">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1575445430233" />
+    <state x="142" y="64" width="1372" height="796" key="new project wizard" timestamp="1575020624226">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="142" y="64" width="1372" height="796" key="new project wizard/67.27.1533.873@67.27.1533.873" timestamp="1575020624226" />
   </component>
 </project>
